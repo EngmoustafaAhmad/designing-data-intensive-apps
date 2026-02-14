@@ -1,6 +1,6 @@
 <div dir="rtl">
 
-# 📘 Designing Data-Intensive Applications  
+# Designing Data-Intensive Applications  
 ## Chapter 7: Transactions
 
 الفصل ده بيجاوب على سؤال مهم جدًا:
