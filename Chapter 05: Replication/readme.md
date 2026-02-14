@@ -1,6 +1,6 @@
 <div dir="rtl">
 
-# 📘 Designing Data-Intensive Applications  
+#  Designing Data-Intensive Applications  
 ## Chapter 5: Replication
 
 الفصل ده بيجاوب على سؤال أساسي جدًا في أي System Design:
